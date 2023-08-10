@@ -1758,6 +1758,14 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.highlight {
+		color: #ffffff; 
+	}
+	.highlight strong {
+		font-weight: bold;
+		color: #ff6200; 
+	}
+
 	header p {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
